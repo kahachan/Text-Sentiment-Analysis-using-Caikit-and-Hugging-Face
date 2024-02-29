@@ -1,6 +1,5 @@
 <p align="center">
-  #Sentiment Analysis using Caikit and Hugging Face
-</p>
+#Sentiment Analysis using Caikit and Hugging Face
 
 <p align="center">
   <img src="https://i.pinimg.com/564x/3e/e9/62/3ee962bece5968f84ed338ede56d08cd.jpg">
