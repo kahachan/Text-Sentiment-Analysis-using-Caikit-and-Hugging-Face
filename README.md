@@ -1,5 +1,5 @@
 <p align="center">
-  # Sentiment Analysis using Caikit and Hugging Face
+#  Sentiment Analysis using Caikit and Hugging Face
 </p>
 
 <p align="center">
