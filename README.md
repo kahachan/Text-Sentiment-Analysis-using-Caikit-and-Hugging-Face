@@ -4,8 +4,6 @@
   <img src="https://i.pinimg.com/564x/3e/e9/62/3ee962bece5968f84ed338ede56d08cd.jpg">
 </p>
 
-![Sentiment Analysis](https://raw.githubusercontent.com/kahachan/Text-Sentiment-Analysis-using-Caikit-and-Hugging-Face/main/sentiment-analysis.jpg)
-
 Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
 
 ## Overview
