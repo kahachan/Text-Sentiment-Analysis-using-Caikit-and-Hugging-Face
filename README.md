@@ -43,4 +43,3 @@ Feel free to contribute to the project by suggesting improvements, opening issue
 
 - Caikit
 - Hugging Face
-- (Add other technologies based on project needs)
